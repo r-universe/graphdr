@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "docxtools",
+    "oncran": true
+  }
+]
