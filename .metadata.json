@@ -2,5 +2,9 @@
   {
     "package": "docxtools",
     "oncran": true
+  },
+  {
+    "package": "formatdown",
+    "oncran": true
   }
 ]

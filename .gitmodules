@@ -8,3 +8,8 @@
 	url = https://github.com/graphdr/docxtools
 	shallow = true
 	registered = true
+[submodule "formatdown"]
+	path = formatdown
+	url = https://github.com/graphdr/formatdown
+	shallow = true
+	registered = true
