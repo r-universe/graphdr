@@ -1,10 +1,10 @@
 [
   {
-    "package": "docxtools",
+    "package": "formatdown",
     "oncran": true
   },
   {
-    "package": "formatdown",
+    "package": "docxtools",
     "oncran": true
   }
 ]
